@@ -6,8 +6,8 @@
 - ⚡ A father, book worm and gamer in my free time
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hibrael01&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrael01&layout=donut&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block>">
